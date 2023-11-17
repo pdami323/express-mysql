@@ -1,0 +1,17 @@
+{
+  "development": {
+    "username": "node_user",
+    "password": "node_user1234!",
+    "database": "nodejs",
+    "host": "192.168.0.113",
+    "dialect": "mysql",
+    "port" : "28306"
+  },
+  "local": {
+    "username": "root",
+    "password": "root",
+    "database": "nodejs",
+    "host": "127.0.0.1",
+    "dialect": "mysql"
+  }
+}
